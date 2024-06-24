@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/src/Assignments/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignments/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javafundamentals/Scanner_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javafundamentals/Scanner_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pack2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OutsiderPack/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bhushan-14&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4be10be3-b5fb-44f8-80a0-a80e014eeb4a" />
+        <option name="url" value="https://github.com/Bhushan-14/JavaFSD.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -40,13 +49,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20240624_0000",
+    "com.google.cloudcode.ide_session_index": "20240624_0002",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/hplap/OneDrive/Desktop/Bhushan/FSD",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AccessModifier">
+  <component name="RunManager" selected="Application.ConstructorDemo1">
     <configuration name="AccessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPS.MainPack.AccessModifier" />
       <module name="SymbosisFSD" />
@@ -73,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.TestPack.Test" />
+    <configuration name="ConstructorDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Constructor.ConstructorDemo1" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.TestPack.*" />
+          <option name="PATTERN" value="OOPS.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorDemo1" />
         <item itemvalue="Application.AccessModifier" />
         <item itemvalue="Application.TestAccessSpecifier" />
         <item itemvalue="Application.AccessSpecifierTest" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -139,11 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718878390938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1719210715732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719210715732</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit Successfully" />
     <option name="LAST_COMMIT_MESSAGE" value="commit Successfully" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
