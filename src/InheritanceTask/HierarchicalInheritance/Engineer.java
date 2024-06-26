@@ -1,4 +1,4 @@
-package InheritaceTask.HierarchicalInheritance;
+package InheritanceTask.HierarchicalInheritance;
 
 public class Engineer extends Human{
     static void study(){

@@ -1,4 +1,4 @@
-package InheritaceTask.MultilevelInheritance;
+package InheritanceTask.MultilevelInheritance;
 
 import java.util.Scanner;
 

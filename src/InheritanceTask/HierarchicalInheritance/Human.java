@@ -1,4 +1,4 @@
-package InheritaceTask.HierarchicalInheritance;
+package InheritanceTask.HierarchicalInheritance;
 
 public class Human {
     public int eye = 2;

@@ -1,7 +1,4 @@
-package InheritaceTask.MultilevelInheritance;
-
-import InheritaceTask.MultilevelInheritance.Executive;
-import InheritaceTask.MultilevelInheritance.Manager;
+package InheritanceTask.MultilevelInheritance;
 
 public class TeamLead extends Executive {
     public static void main(String[] args) {

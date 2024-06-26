@@ -1,4 +1,4 @@
-package InheritaceTask.HierarchicalInheritance;
+package InheritanceTask.HierarchicalInheritance;
 
 public class Student extends Human{
     static void studing(){

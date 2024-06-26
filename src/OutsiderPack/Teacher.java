@@ -1,12 +1,12 @@
 package OutsiderPack;
-import InheritaceTask.HierarchicalInheritance.Human;
+import InheritanceTask.HierarchicalInheritance.Human;
 
 
-public class Teacher {
+public class Teacher extends Human {
     public static void main(String[] args) {
-        Human human = new Human();
-        human.walking();
-        System.out.println(human.brain);
+        Teacher teacher = new Teacher();
+        teacher.walking();
+        System.out.println(teacher.brain);
         Human.eat();
     }
 }

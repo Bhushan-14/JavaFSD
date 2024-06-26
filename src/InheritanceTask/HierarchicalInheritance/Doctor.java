@@ -1,4 +1,4 @@
-package InheritaceTask.HierarchicalInheritance;
+package InheritanceTask.HierarchicalInheritance;
 
 public class Doctor extends Human{
     static void operate(){
