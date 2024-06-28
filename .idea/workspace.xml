@@ -5,31 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/AbstractionTask/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/AbstractionTask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/AbstractionTask/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/ChildTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/InterfaceTask/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/InterfaceTask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/InterfaceTask/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/InterfaceTask/Vehicles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/firstInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Task1/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTask/HasRelation/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTask/HasRelation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTask/IsAandHasARelation/ABCSoftware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTask/IsAandHasARelation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceTask/IsAandHasARelation/Infosys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Over_load.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/HolloSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/PallindromeInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/StarTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HasRelation/Employee.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,22 +64,22 @@
     "Notification.DoNotAsk-Cloud Code Notifications": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20240628_0003",
+    "com.google.cloudcode.ide_session_index": "20240628_0009",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/hplap/OneDrive/Desktop/Bhushan/FSD",
+    "last_opened_file_path": "C:/Users/hplap/OneDrive/Desktop/Bhushan/DSA",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayDemo2">
-    <configuration name="Abstraction.InterfaceTask.Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstraction.InterfaceTask.Car" />
+  <component name="RunManager" selected="Application.PallindromeInArray">
+    <configuration name="HolloSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Patterns.HolloSquare" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstraction.InterfaceTask.*" />
+          <option name="PATTERN" value="Array.Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.ArrayDemo1" />
+    <configuration name="MDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MDArray" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.ArrayDemo2" />
+    <configuration name="PallindromeInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Patterns.PallindromeInArray" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Array.Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Task1.Main" />
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Patterns.Square" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.Task1.*" />
+          <option name="PATTERN" value="Array.Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Student" />
+    <configuration name="StarTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Patterns.StarTriangle" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="PATTERN" value="Array.Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayDemo2" />
-        <item itemvalue="Application.ArrayDemo1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Abstraction.InterfaceTask.Car" />
+        <item itemvalue="Application.PallindromeInArray" />
+        <item itemvalue="Application.HolloSquare" />
+        <item itemvalue="Application.Square" />
+        <item itemvalue="Application.StarTriangle" />
+        <item itemvalue="Application.MDArray" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719383750956</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1719554571028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719554571028</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
