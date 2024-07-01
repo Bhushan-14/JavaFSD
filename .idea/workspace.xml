@@ -5,18 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MainStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/HolloSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/PallindromeInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Patterns/StarTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FiveDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FourDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SwapThreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ThreeDArray/ThreeDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ThreeDArray/ThreeDDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ArrayOutOfBoundIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/AssertionError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/PasswordValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Voting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Efficiency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ImmutableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OutsiderPack/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OutsiderPack/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,28 +75,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Notification.DisplayName-DoNotAsk-Cloud Code Notifications": "Cloud Code Notifications",
-    "Notification.DoNotAsk-Cloud Code Notifications": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20240628_0009",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/hplap/OneDrive/Desktop/Bhushan/DSA",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Cloud Code Notifications&quot;: &quot;Cloud Code Notifications&quot;,
+    &quot;Notification.DoNotAsk-Cloud Code Notifications&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240630_0000&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hplap/OneDrive/Desktop/Bhushan/DSA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PallindromeInArray">
-    <configuration name="HolloSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Patterns.HolloSquare" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Strings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PasswordValidation">
+    <configuration name="AssertionError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.AssertionError" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.Patterns.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MDArray" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.Demo2" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PallindromeInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Patterns.PallindromeInArray" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.Demo3" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.Patterns.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Patterns.Square" />
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.Demo5" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.Patterns.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Patterns.StarTriangle" />
+    <configuration name="PasswordValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.PasswordValidation" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.Patterns.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PallindromeInArray" />
-        <item itemvalue="Application.HolloSquare" />
-        <item itemvalue="Application.Square" />
-        <item itemvalue="Application.StarTriangle" />
-        <item itemvalue="Application.MDArray" />
+        <item itemvalue="Application.PasswordValidation" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.AssertionError" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +252,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719554571028</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1719565760634</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719565760634</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1719565776035</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719565776035</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
