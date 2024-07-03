@@ -5,35 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/src/Array/FiveDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/FourDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SwapThreeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ThreeDArray/ThreeDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ThreeDArray/ThreeDDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ArrayOutOfBoundIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/AssertionError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Demo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/PasswordValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Voting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Efficiency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ImmutableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ImmutableString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringBufferDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/CheckedExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/CheckedExceptiondemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/InsufficientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/PasswordAndUserNameValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/Passwordexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/UseNameexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task1/PasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task1/UsernameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task3/ArrayoutOfBoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task4/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task4/OwnException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Task4/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/InterruptUsingStopKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/InteruptedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/MainDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/NewThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/OneThreadMultipleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/THreadMehtodsDemo3Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo3Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OutsiderPack/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OutsiderPack/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +89,7 @@
     &quot;Notification.DoNotAsk-Cloud Code Notifications&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240630_0000&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/hplap/OneDrive/Desktop/Bhushan/DSA&quot;,
@@ -92,16 +101,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exception.Task4" />
       <recent name="Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PasswordValidation">
-    <configuration name="AssertionError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.AssertionError" />
+  <component name="RunManager" selected="Application.THreadMehtodsDemo3Join">
+    <configuration name="InterruptUsingStopKeyWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.InterruptUsingStopKeyWord" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.Demo2" />
+    <configuration name="THreadMehtodsDemo3Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.THreadMehtodsDemo3Join" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.Demo3" />
+    <configuration name="Thread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.Thread1" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.Demo5" />
+    <configuration name="ThreadMethodsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadMethodsDemo1" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.PasswordValidation" />
+    <configuration name="ThreadMethodsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadMethodsDemo2" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PasswordValidation" />
-        <item itemvalue="Application.Demo5" />
-        <item itemvalue="Application.AssertionError" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.THreadMehtodsDemo3Join" />
+        <item itemvalue="Application.ThreadMethodsDemo2" />
+        <item itemvalue="Application.ThreadMethodsDemo1" />
+        <item itemvalue="Application.Thread1" />
+        <item itemvalue="Application.InterruptUsingStopKeyWord" />
       </list>
     </recent_temporary>
   </component>
@@ -268,12 +278,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719565776035</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1719816133328</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719816133328</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit Successfully" />
     <option name="LAST_COMMIT_MESSAGE" value="commit Successfully" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Multithreading/InteruptedException.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
