@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/Vector/VectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/Vector/VectorDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/TressSetDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/List/LinkedList/LinkedListDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/LinkedList/LinkedListDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/List/Stack/ParentheseChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/Stack/ParentheseChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/List/Stack/StackDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/Stack/StackDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/HashSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/HashSetDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HashSetDemo1.executor": "Run",
     "Application.StackDemo1.executor": "Run",
     "Application.VectorDemo2.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Cloud Code Notifications": "Cloud Code Notifications",
@@ -80,13 +77,13 @@
       <recent name="Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackDemo1">
-    <configuration name="LinkedListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.LinkedList.LinkedListDemo1" />
+  <component name="RunManager" selected="Application.HashSetDemo1">
+    <configuration name="HashSetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.set.HashSet.HashSetDemo1" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFrameWork.List.LinkedList.*" />
+          <option name="PATTERN" value="CollectionFrameWork.set.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetDemo1" />
         <item itemvalue="Application.StackDemo1" />
         <item itemvalue="Application.VectorDemo2" />
         <item itemvalue="Application.VectorDemo" />
         <item itemvalue="Application.ParentheseChecker" />
-        <item itemvalue="Application.LinkedListDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720160009613</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1720169636019</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720169636019</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
