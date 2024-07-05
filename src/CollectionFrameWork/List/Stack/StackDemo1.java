@@ -15,6 +15,10 @@ public class StackDemo1 {
             s1.add(sc.nextInt());
         }
         System.out.println("Stack is: "+s1);
+        Stack<Integer> s2 = new Stack<>();
+        s2.add(12);
+        s2.add(15);
+        System.out.println(s2.peek());
 
     }
 }

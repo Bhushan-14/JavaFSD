@@ -27,7 +27,10 @@ public class LinkedListDemo1 {
 
         System.out.println(Collections.synchronizedList(newlist));
 
-
+        Iterator itr = newlist.iterator();
+        while (itr.hasNext()){
+            System.out.println(itr.next());
+        }
 
     }
 }
