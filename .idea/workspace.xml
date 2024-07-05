@@ -5,43 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/CheckedExceptionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/CheckedExceptiondemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/PasswordAndUserNameValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/Passwordexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTask/UseNameexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task1/PasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task1/UsernameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task3/ArrayoutOfBoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task4/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task4/OwnException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Task4/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/InterruptUsingStopKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/InteruptedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/MainDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/NewThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/NewThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/OneThreadMultipleTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/THreadMehtodsDemo3Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/ArrayList/ArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/ArrayList/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/ArrayList/ArrayListMerger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/ArrayList/RemoveDuplicateFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/LinkedList/LinkedListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/LinkedList/LinkedListMerger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/List/Stack/StackDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/SynchronizedBlockTask1/DivA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/SynchronizedBlockTask1/DivB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/SynchronizedBlockTask1/DivC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/SynchronizedBlockTask1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/SynchronizedBlockTask1/SynchronizedBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task1/Insufficientexpenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task1/SDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task1/SDemo1Expenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task2/NotEnoughSeatsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task3/BookingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task3/NotEnoughSeatsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task3/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Synchronization/Task3/Theater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ThreadMethodsDemo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +79,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240630_0000&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hplap/OneDrive/Desktop/Bhushan/DSA&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hplap/OneDrive/Desktop/car-dealership-main&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -101,17 +88,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Multithreading.Task3" />
+      <recent name="Multithreading.Synchronization.Task2" />
       <recent name="Exception.Task4" />
       <recent name="Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.THreadMehtodsDemo3Join">
-    <configuration name="InterruptUsingStopKeyWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.InterruptUsingStopKeyWord" />
+  <component name="RunManager" selected="Application.StackDemo1">
+    <configuration name="ArrayIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.ArrayList.ArrayIterator" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="CollectionFrameWork.List.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="THreadMehtodsDemo3Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.THreadMehtodsDemo3Join" />
+    <configuration name="ArrayListMerger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.ArrayList.ArrayListMerger" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="CollectionFrameWork.List.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Thread1" />
+    <configuration name="LinkedListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.LinkedList.LinkedListDemo1" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="CollectionFrameWork.List.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadMethodsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadMethodsDemo1" />
+    <configuration name="RemoveDuplicateFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.ArrayList.RemoveDuplicateFromList" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="CollectionFrameWork.List.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadMethodsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadMethodsDemo2" />
+    <configuration name="StackDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.Stack.StackDemo1" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="CollectionFrameWork.List.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.THreadMehtodsDemo3Join" />
-        <item itemvalue="Application.ThreadMethodsDemo2" />
-        <item itemvalue="Application.ThreadMethodsDemo1" />
-        <item itemvalue="Application.Thread1" />
-        <item itemvalue="Application.InterruptUsingStopKeyWord" />
+        <item itemvalue="Application.StackDemo1" />
+        <item itemvalue="Application.LinkedListDemo1" />
+        <item itemvalue="Application.ArrayIterator" />
+        <item itemvalue="Application.RemoveDuplicateFromList" />
+        <item itemvalue="Application.ArrayListMerger" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719816133328</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1720004260609</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720004260609</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

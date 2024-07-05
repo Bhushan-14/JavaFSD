@@ -7,6 +7,6 @@ public class ThreadMethodsDemo3 implements Runnable {
         for (int i = 0; i < 5; i++) {
             System.out.println("Iteration: "+i);
         }
-        System.out.println("Thread1 is ended");
+        System.out.println("DivA is ended");
     }
 }
