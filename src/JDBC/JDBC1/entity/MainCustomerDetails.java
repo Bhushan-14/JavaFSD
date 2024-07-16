@@ -3,6 +3,7 @@ package JDBC.JDBC1.entity;
 import JDBC.JDBC1.connection.DatabaseConnection;
 import JDBC.JDBC1.dao.CustomerDao;
 
+import java.sql.SQLException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -14,6 +15,7 @@ public class MainCustomerDetails {
     private double billAmount;
 
     public MainCustomerDetails(int customerID, String customerName, int billNo, double billAmount) {
+        super();
         this.customerID = customerID;
         this.customerName = customerName;
         this.billNo = billNo;
@@ -21,6 +23,7 @@ public class MainCustomerDetails {
     }
 
     public MainCustomerDetails() {
+        super();
     }
 
     public int getCustomerID() {
@@ -55,7 +58,7 @@ public class MainCustomerDetails {
         this.billAmount = billAmount;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws SQLException, ClassNotFoundException {
         Scanner sc = new Scanner(System.in);
         DatabaseConnection conn = new DatabaseConnection();
 
@@ -63,19 +66,19 @@ public class MainCustomerDetails {
         while (continueLoop) {
             System.out.println("++++++++++++++++++++++");
             System.out.println("Press 1 for insert");
-            System.out.println("Press 2 for update");
-            System.out.println("Press 3 for delete");
+            System.out.println("Press 2 for delete");
+            System.out.println("Press 3 for update");
             System.out.println("Press 4 to exit");
             System.out.println("Enter your Choice: ");
             try {
                 int choice = sc.nextInt();
-                sc.nextLine(); // Consume newline left-over
+                sc.nextLine();
 
                 switch (choice) {
                     case 1:
                         System.out.println("Enter customerID:");
                         int customerID = sc.nextInt();
-                        sc.nextLine(); // Consume newline left-over
+                        sc.nextLine();
                         System.out.println("Enter customerName:");
                         String customerName = sc.nextLine();
                         System.out.println("Enter billNo:");
@@ -86,8 +89,13 @@ public class MainCustomerDetails {
                         CustomerDao.insertCustomer(customer);
                         break;
                     case 2:
+                        System.out.println("Enter customerID:");
+                        int cId = sc.nextInt();
+                        sc.nextLine();
+                        CustomerDao.delete(cId);
                         break;
                     case 3:
+                    	
                         break;
                     case 4:
                         System.out.println("Exiting...");

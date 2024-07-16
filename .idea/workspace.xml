@@ -5,38 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/HashMapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/HashMapDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/LinkedHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/LinkedHashMapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/TreeMap/TreeMapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/TreeMap/WeakHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Queue/Dequeue/DequeueDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/CommonOfThreeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/LinkedHashSet/LinkedHashSetDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/MergerTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/SortedSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/TreeSetDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparable/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparable/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparator/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparator/StudDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Task/ComparableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Task/ComparatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Task/PatientDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Grade1/ImplementDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Grade1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Grade1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/connection/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/dao/CustomerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/entity/MainCustomerDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBCDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SymbosisFSD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SymbosisFSD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/Queue/QueueDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Queue/PriorityQueue/PriorityQueueDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/HashSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/HashSetDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/TressSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/TressSetDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC/JDBC1/dao/CustomerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/dao/CustomerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC/JDBC1/entity/MainCustomerDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/entity/MainCustomerDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720171673955</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1721106617033</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721106617033</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
