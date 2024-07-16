@@ -5,9 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8570675e-f6d4-4241-815f-e094123fe33e" name="Changes" comment="commit Successfully">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/TressSetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/HashMapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/HashMapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/HashMap/LinkedHashMapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/TreeMap/TreeMapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Map/TreeMap/WeakHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Queue/Dequeue/DequeueDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/CommonOfThreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/LinkedHashSet/LinkedHashSetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/MergerTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/ReverseSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/SortedSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/TreeSetDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparable/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparator/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Comparator/StudDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Task/ComparableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Task/ComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorAndComparableInterface/Task/PatientDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grade1/ImplementDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grade1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grade1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/connection/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/dao/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC1/entity/MainCustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBCDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SymbosisFSD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SymbosisFSD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/Queue/QueueDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/Queue/PriorityQueue/PriorityQueueDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/HashSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/HashSetDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFrameWork/set/HashSet/TressSetDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFrameWork/set/TreeSet/TressSetDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +76,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HashSetDemo1.executor": "Run",
-    "Application.StackDemo1.executor": "Run",
-    "Application.VectorDemo2.executor": "Run",
-    "Notification.DisplayName-DoNotAsk-Cloud Code Notifications": "Cloud Code Notifications",
-    "Notification.DoNotAsk-Cloud Code Notifications": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.google.cloudcode.ide_session_index": "20240630_0000",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hplap/OneDrive/Desktop/car-dealership-main",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CommonOfThreeArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparatorAndComparableInterface.Comparator.Demo1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparatorAndComparableInterface.Comparator.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DatabaseConnection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DequeueDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBCDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMapDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSetDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCustomerDetails.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergerTreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prem2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityQueueDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseSentence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeMapDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSetDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TressSetDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VectorDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeakHashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeakHaspMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Cloud Code Notifications&quot;: &quot;Cloud Code Notifications&quot;,
+    &quot;Notification.DoNotAsk-Cloud Code Notifications&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240630_0000&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hplap/OneDrive/Desktop/Bhushan/FSD&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Multithreading.Task3" />
@@ -77,13 +134,13 @@
       <recent name="Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashSetDemo1">
-    <configuration name="HashSetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.set.HashSet.HashSetDemo1" />
+  <component name="RunManager" selected="Application.MainCustomerDetails">
+    <configuration name="DatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBC1.connection.DatabaseConnection" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFrameWork.set.HashSet.*" />
+          <option name="PATTERN" value="JDBC.JDBC1.connection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParentheseChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.Stack.ParentheseChecker" />
+    <configuration name="DatabasecConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBC1.DatabasecConnection" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFrameWork.List.Stack.*" />
+          <option name="PATTERN" value="JDBC.JDBC1.connection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.Stack.StackDemo1" />
+    <configuration name="JDBCDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBCDemo1" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFrameWork.List.Stack.*" />
+          <option name="PATTERN" value="JDBC.JDBC1.connection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +174,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.Vector.VectorDemo" />
-      <module name="SymbosisFSD" />
+    <configuration name="MainCustomerDetails (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBC1.MainCustomerDetails" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFrameWork.List.Vector.*" />
+          <option name="PATTERN" value="JDBC.JDBC1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +186,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionFrameWork.List.Vector.VectorDemo2" />
+    <configuration name="MainCustomerDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBC1.entity.MainCustomerDetails" />
       <module name="SymbosisFSD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionFrameWork.List.Vector.*" />
+          <option name="PATTERN" value="JDBC.JDBC1.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCustomerDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBC1.entity.MainCustomerDetails" />
+      <module name="SymbosisFSD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC.JDBC1.connection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetDemo1" />
-        <item itemvalue="Application.StackDemo1" />
-        <item itemvalue="Application.VectorDemo2" />
-        <item itemvalue="Application.VectorDemo" />
-        <item itemvalue="Application.ParentheseChecker" />
+        <item itemvalue="Application.MainCustomerDetails" />
+        <item itemvalue="Application.MainCustomerDetails (1)" />
+        <item itemvalue="Application.DatabaseConnection" />
+        <item itemvalue="Application.DatabasecConnection" />
+        <item itemvalue="Application.JDBCDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720169636019</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit Successfully">
+      <option name="closed" value="true" />
+      <created>1720171673955</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1720171673955</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

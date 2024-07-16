@@ -29,6 +29,7 @@ public class HashSetDemo1 {
             System.out.println(itr.next());
         }
 
+        
         if(!search(hs2)){
             System.out.println("Element is not found");
         }else{
