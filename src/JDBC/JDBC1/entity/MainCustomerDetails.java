@@ -95,7 +95,17 @@ public class MainCustomerDetails {
                         CustomerDao.delete(cId);
                         break;
                     case 3:
-                    	
+                    	System.out.println("Enter cutomerId");
+                    	int cid = sc.nextInt();
+                        sc.nextLine();
+                    	System.out.println("Enter cutomerName:");
+                    	String cname = sc.nextLine();
+                    	System.out.println("Enter billNo:");
+                    	int cbillNo = sc.nextInt();
+                    	System.out.println("Enter billAmount:");
+                    	double cbillAmount = sc.nextDouble();
+                    	MainCustomerDetails customerDetails = new MainCustomerDetails(cid, cname, cbillNo, cbillAmount);
+                        CustomerDao.updateCustomer(customerDetails);
                         break;
                     case 4:
                         System.out.println("Exiting...");

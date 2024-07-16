@@ -46,4 +46,25 @@ public class CustomerDao {
             throw new RuntimeException("Error deleting customer: " + e.getMessage());
         }
     }
+    public static void updateCustomer(MainCustomerDetails customer) throws SQLException {
+        String query = "UPDATE customerDetails SET customerName = ?, bill_no = ?, billAmount = ? WHERE customerID = ?";
+        try (Connection conn = DatabaseConnection.getConnection();
+             PreparedStatement ps = conn.prepareStatement(query)) {
+
+            ps.setString(1, customer.getCustomerName());
+            ps.setInt(2, customer.getBillNo());
+            ps.setDouble(3, customer.getBillAmount());
+            ps.setInt(4, customer.getCustomerID());
+
+            int rowsAffected = ps.executeUpdate();
+
+            if (rowsAffected > 0) {
+                System.out.println("Customer updated successfully.");
+            } else {
+                System.out.println("No rows found with the provided ID.");
+            }
+        } catch (SQLException e) {
+            throw new RuntimeException("Error updating customer: " + e.getMessage());
+        }
+    }
 }
